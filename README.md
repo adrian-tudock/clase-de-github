@@ -3,7 +3,7 @@ clase-de-github
 
 Esto es un ejemplo para aprender a usar github
 
-unavez git instalado se tiene que configurar asi:
+una vez git instalado se tiene que configurar asi:
 
 git config --global user.name "name"
 
